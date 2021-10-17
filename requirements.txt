@@ -3,3 +3,5 @@ emoji
 type opotion
 colours
 vibrant
+dark mode 
+video
